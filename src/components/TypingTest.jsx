@@ -168,12 +168,12 @@ function TypingTest({ onFinish, personalBest, setPersonalBest, hasTakenTestBefor
     <div>
       <header>
         <img
-          src="/assets/images/logo-large.svg"
+          src="./assets/images/logo-large.svg"
           alt="Typing Speed Test logo"
         />
         <div className="ScoreBoard">
           <img
-            src="/assets/images/icon-personal-best.svg"
+            src="./assets/images/icon-personal-best.svg"
             alt="personal best"
           />
           <div>Personal Best: {personalBest} WPM</div>
